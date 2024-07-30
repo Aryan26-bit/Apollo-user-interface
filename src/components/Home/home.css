@@ -1,0 +1,126 @@
+.homepage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("./../../../public/images/background.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 100vh;
+}
+
+.homepage-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  padding-top: 3vh;
+}
+
+.homepage-navbar ul {
+  display: flex;
+  font-size: 2vh;
+  flex-direction: row;
+  list-style: none;
+}
+
+.homepage-navbar li {
+  margin: 0 15px;
+}
+
+.homepage-navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.homepage-buttons {
+  display: flex;
+}
+
+.get-in-touch,
+.request-callback {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #0591cb;
+  color: white;
+  cursor: pointer;
+}
+
+.get-in-touch {
+  background-color: #0591cb;
+}
+
+.hero {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3em;
+  max-width: 70%;
+}
+
+.homepage-button-container {
+  /* display: flex; */
+}
+
+.homepage-button {
+  padding: 1.5vh 2vh;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.blue-button {
+  background-color: #0591cb;
+  color: white;
+}
+
+.black-button {
+  background-color: black;
+  color: white;
+}
+
+.homepage-button.active {
+  background-color: #0591cb;
+  color: white;
+}
+
+.homepage-button:hover {
+  color: white;
+}
+
+.homepage-hero {
+  font-size: 4vh;
+}
+
+.blinking-cursor {
+  font-size: 1.5rem;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.bydefault-typed-text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

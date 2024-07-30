@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "/images/iconone.png",
+      "title": "Industrial Automation",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+      "id": 2,
+      "image": "/images/icontwo.png",
+      "title": "Robotics",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+      "id": 3,
+      "image": "/images/iconthree.png",
+      "title": "Conveyors",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+      "id": 4,
+      "image": "/images/iconfour.png",
+      "title": "IoT Solutions",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+      "id": 5,
+      "image": "/images/iconfive.png",
+      "title": "Custom Solutions",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    },
+    {
+      "id": 6,
+      "image": "/images/iconsix.png",
+      "title": "Consulting Services",
+      "description": "Lorem Ipsum is simply dummy text of the printing"
+    }
+  ]
+  

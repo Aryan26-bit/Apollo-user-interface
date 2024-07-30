@@ -1,0 +1,159 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer {
+  width: 100%;
+  background-color: #fff;
+  padding: 20px 0;
+}
+
+.footer-content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.logo-section {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.logo_black {
+  width: 14%;
+}
+
+.footer-sections {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.quick-links,
+.contact-info,
+.contact-form {
+  flex: 1;
+  min-width: 300px;
+  margin: 10px;
+}
+
+.contact-form {
+  margin-top: -6vh !important;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5vh;
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  display: flex;
+  gap: 1vh;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+}
+
+button {
+  padding: 1.5vh;
+  background-color: #ff7f00;
+  border: none;
+  white-space: nowrap;
+  color: white;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+/* button:hover {
+  background-color: #fa8114;
+} */
+
+.social-media {
+  display: flex;
+  color: #000;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.social-media p {
+  margin-right: 10px;
+}
+
+.social-icon {
+  margin: 0 5px;
+  color: #0000 !important;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  display: flex;
+  background-color: #01a2e9;
+  flex-direction: row;
+  padding-left: 15vh;
+  color: #fff;
+  margin-top: 3vh !important;
+  font-weight: 400;
+  padding-right: 15vh;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #ccc;
+  margin: 0 auto;
+}
+
+.privacy-terms {
+  margin-top: 10px;
+}
+
+.privacy-terms a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.privacy-terms a:hover {
+  text-decoration: underline;
+}
+
+.form-btn-alignment {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.map-icon,
+.mail-icon {
+  display: flex;
+  flex-direction: row;
+  gap: 1vh;
+  align-items: center;
+}
