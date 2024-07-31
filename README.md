@@ -45,7 +45,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Code Splitting![ApolloUItwo](https://github.com/user-attachments/assets/6fb49876-7fc8-4343-a8ad-49557ac669cd)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![ApolloUIthree (1)](https://github.com/user-attac![Apollo_UIone](https://github.com/user-attachments/assets/d071ce4e-2ac8-4e73-936d-ea905f3b4126)
+hments/assets/b13b20ca-c442-4aa4-afb2-cd2e71199405)![ApolloUIfour (1)](https://github.com/user-attachments/assets/c6a13c44-b4f5-44af-9411-40ce0b18e2c8)
+
+
+
+
